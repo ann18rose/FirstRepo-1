@@ -18,6 +18,7 @@ public class YahooSearchTest {
         //open
         //username
         //pass
-        //sigin 
+        //sigin
+        // assertion.assertEqual(name,name)
     }
 }
