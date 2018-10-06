@@ -12,4 +12,11 @@ public class YahooSearchTest {
 //        submitSearch();
 //        printOutAmountOfResult();
     }
+
+    @Test
+    public void testLogin() {
+        //open
+        //username
+        //pass
+    }
 }
