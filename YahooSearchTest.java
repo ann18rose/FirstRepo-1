@@ -23,5 +23,17 @@ public class YahooSearchTest {
         //sigin
         // assertion.assertEqual(name,name)
     }
+
+    @Test
+    public void testSignout() {
+        //open
+        //username
+        //pass
+        //sigin
+        // assertion.assertEqual(name,name)
+    }
 }
-nbvnvvnvhg
+
+
+
+
