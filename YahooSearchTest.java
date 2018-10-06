@@ -7,6 +7,7 @@ public class YahooSearchTest {
 
     @Test
     public void testSearch() throws Exception {
+    	webdriver.new.get("adasdasdasd")
 //        navigatingToMainPage();
 //        typeRequestInSearchInput();
 //        submitSearch();
