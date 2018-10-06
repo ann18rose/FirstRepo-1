@@ -7,6 +7,8 @@ public class YahooSearchTest {
 
     @Test
     public void testSearch() throws Exception {
+    	WebDriver driver skdjbnvskdjnvkdfjnvklsdfnvlkdsfjnvlksdjfnvlksdjfnvlkdjfv
+    	webdriver.new.get("adasdasdasd")
 //        navigatingToMainPage();
 //        typeRequestInSearchInput();
 //        submitSearch();
