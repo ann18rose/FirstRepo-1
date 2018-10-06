@@ -14,5 +14,14 @@ public class YahooSearchTest {
 //        submitSearch();
 //        printOutAmountOfResult();
     }
+
+    @Test
+    public void testLogin() {
+        //open
+        //username
+        //pass
+        //sigin
+        // assertion.assertEqual(name,name)
+    }
 }
 nbvnvvnvhg
