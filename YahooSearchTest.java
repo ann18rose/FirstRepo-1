@@ -16,7 +16,7 @@ public class YahooSearchTest {
     }
 
     @Test
-    public void testLogin() {
+    public void GOOGLESIGNIN() {
         //open
         //username
         //pass
